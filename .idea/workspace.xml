@@ -3,14 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8b376cb7-c704-4d31-bc55-e84375e42419" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/about_img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background/back6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/back6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/camera_simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/cake.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/camera.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/flying_balloons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/intro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/walk_cat.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,10 +23,11 @@
     <session id="-1673457226">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,13 +46,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="256" />
+          <entry key="html" value="319" />
           <entry key="js" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="256" />
+          <entry key="HTML" value="319" />
           <entry key="JavaScript" value="63" />
         </counts>
       </usages-collector>
@@ -65,10 +63,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="356" column="36" lean-forward="true" selection-start-line="356" selection-start-column="36" selection-end-line="356" selection-end-column="36" />
+            <state relative-caret-position="397">
+              <caret line="349" column="23" lean-forward="true" selection-start-line="349" selection-start-column="23" selection-end-line="349" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,12 +170,13 @@
       <updated>1575711486319</updated>
       <workItem from="1575711487713" duration="4029000" />
       <workItem from="1575716447449" duration="2479000" />
-      <workItem from="1575722801461" duration="319000" />
+      <workItem from="1575722801461" duration="1272000" />
+      <workItem from="1575821863102" duration="895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6827000" />
+    <option name="totallyTimeSpent" value="8675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -283,10 +283,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="356" column="36" lean-forward="true" selection-start-line="356" selection-start-column="36" selection-end-line="356" selection-end-column="36" />
+        <state relative-caret-position="397">
+          <caret line="349" column="23" lean-forward="true" selection-start-line="349" selection-start-column="23" selection-end-line="349" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b376cb7-c704-4d31-bc55-e84375e42419" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/about_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/about_img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/intro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/lazy_cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/rain.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/running.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/school.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/full/stickman.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/intro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lazy_cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/rain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/running.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/school.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/stickman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +40,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -50,6 +71,7 @@
     <option name="width" value="1356" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectId" id="1ofJUr6JZvOgT09bgBJdXthmiBM" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,12 +96,20 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,6 +124,8 @@
       <workItem from="1575716447449" duration="2479000" />
       <workItem from="1575722801461" duration="1272000" />
       <workItem from="1575821863102" duration="895000" />
+      <workItem from="1613671737016" duration="2913000" />
+      <workItem from="1613674816969" duration="13000" />
     </task>
     <servers />
   </component>
@@ -143,7 +175,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -155,6 +187,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
